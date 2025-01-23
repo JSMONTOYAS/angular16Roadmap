@@ -8,7 +8,7 @@
 - [ ] **Ejercicio 3:** Crear y ejecutar tu primer componente.
 
 ### Componentes y Plantillas
-- [ ] **Ejercicio 4:** Crear y estilizar componentes usando CSS y Angular Material.
+- [ ] **Ejercicio 4:** Crear y estilizar componentes usando CSS y Bootstrap.
 - [ ] **Ejercicio 5:** Usar el data binding y event binding en componentes.
 - [ ] **Ejercicio 6:** Implementar directivas estructurales (`*ngIf`, `*ngFor`).
 
