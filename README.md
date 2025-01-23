@@ -3,8 +3,8 @@
 ## Nivel 1: Conceptos Básicos
 
 ### Introducción a Angular
-- [ ] **Ejercicio 1:** Instalar Angular CLI y crear tu primer proyecto Angular.
-- [ ] **Ejercicio 2:** Explorar la estructura del proyecto y entender cada carpeta y archivo.
+- [x] **Ejercicio 1:** Instalar Angular CLI y crear tu primer proyecto Angular.
+- [x] **Ejercicio 2:** Explorar la estructura del proyecto y entender cada carpeta y archivo.
 - [ ] **Ejercicio 3:** Crear y ejecutar tu primer componente.
 
 ### Componentes y Plantillas
